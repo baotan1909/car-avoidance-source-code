@@ -1,0 +1,3 @@
+SlowDown 0
+TimeStop 0
+Invincible 0
