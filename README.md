@@ -1,5 +1,5 @@
 <h1 align="center">Car Avoidance</h1>
-<h3 align="center" margin="0">COMP20007 – Object Oriented Programming</h3>
+<h3 align="center" margin="0">COS20007 – Object Oriented Programming</h3>
 <h5 align="center">An Upgrade from Custom Program – Swinburne Vietnam (Sep 2023)</h5>
 <p align="center"><img src="https://github.com/baotan1909/car-avoidance-source-code/assets/125344198/353598f0-392b-4088-bbfa-9b6fb824fc34" alt="Car Avoidance gameplay screen" width="50%" height="50%"></p>
 <h2>Overview</h2>
